@@ -1,2 +1,2 @@
-public interface Iproduct{
+public interface IUser{
 }
